@@ -1,0 +1,8 @@
+Interesting Tractable application + Wacky sweet application
+
+The difference would be how much to implement in a wacky sweet vs a tractable project. 
+
+gps verified/ competitive / social media / game workout app
+This is me rambling... I want to create a workout + social media application where the focus of the application is to have a GPS verified workout tracker + workout sharing app where people can connect and compete for consistency. The application could have a messaging/posting system for posting personal workouts for other people to try, as well as having a consistency ranking system to motivate the more competitive users, the ranking system would be reset every x weeks (to be decided later). A GPS workout validation system could also be used to make sure no one fakes their workout. A user would set their home gps location. A user could then start their workout, and a GPS would track them for the duration of the workout to see if they ever moved more than 100 feet from their home GPS location. I woudl add a constraint that they have to start the workout from their home gps and end it from their home gps to ensure that they moved. there could also be an anonymous option for users if they are the more antisocial workouter.
+
+There is so much more to decide and add. 

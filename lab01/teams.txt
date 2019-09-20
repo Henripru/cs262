@@ -1,0 +1,29 @@
+Henri Prudhomme
+
+1. DEMOGRAPHICS: 
+a. Sophomore
+b. BCS, Mathematics double major
+c. CS 112: A (passed out of class before entering college)
+   CS 212: A-
+
+2. TECHNICAL: 
+a. I have worked with Java and command line applications. Mostly for programming competitions. 
+
+b. I have used Github both with terminal and GUI as well as slack
+
+c. I do not have any android devices
+
+d. I am interested in making my own workout/social media app. 
+
+3. PERSONALITY:
+a. Openness: 48
+   Conscientiousness: 85
+   Extraversion: 81
+   Agreeableness: 69
+   Neuroticism: 40
+
+b. Bernard and Bryant George are people who I would enjoy working with.
+
+4. Other
+
+I am very comfortable with c++/c/c# as I have been in the language for the last 5 years. I also have had a software engineering internship for the last 4 months which has been c++/c/c# as well.
